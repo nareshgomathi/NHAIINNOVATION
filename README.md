@@ -5,6 +5,15 @@
 
 ---
 
+## Developer Information
+
+**Name:** Naresh  
+**Role:** AI Developer  
+**Email:** nareshgomathi321@gmail.com  
+**Phone:** +91 6369135927
+
+---
+
 ## Table of Contents
 
 1. [Overview](#overview)
