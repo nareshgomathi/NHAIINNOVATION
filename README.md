@@ -646,7 +646,7 @@ Drishti-id/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-org/Drishti-id.git
+git clone https://github.com/nareshgomathi/NHAIINNOVATION.git
 cd Drishti-id
 ```
 
