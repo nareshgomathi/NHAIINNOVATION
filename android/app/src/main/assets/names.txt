@@ -1,20 +1,25 @@
-"Adriana Lima"
-"Alex Lawther"
-"Alexandra Daddario"
-"Alvaro Morte"
-"Amanda Crew"
-"Andy Samberg"
-"Anne Hathaway"
-"Anthony Mackie"
-"Avril Lavigne"
-"Ben Affleck"
-"Bill Gates"
-"Bobby Morley"
-"Brenton Thwaites"
-"Cristiano Ronaldo"
-"Brie Larson"
-"Chris Evans"
-"Chris Hemsworth"
-"Chris Pratt"
-"Christian Bale"
-"Cristiano Ronaldo"
+'kamal_haasan'
+'mammootty'
+'sanjay_dutt'
+'prabhas'
+'tabu'
+'chiranjeevi'
+'rani_mukerji'
+'waheeda_rehman'
+'vidya_balan'
+'madhuri_dixit'
+'kajol'
+'ranveer_singh'
+'radhika_apte'
+'akshay_kumar'
+'saif_ali_khan'
+'govinda'
+'hrithik_roshan'
+'ajay_devgn'
+'kangana_ranaut'
+'ranbir_kapoor'
+'amitabh_bachchan'
+'prakash_raj'
+'mithun_chakraborty'
+'mohanlal'
+'salman_khan'
